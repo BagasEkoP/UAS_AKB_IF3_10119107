@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/drawable/dotselect.xml" value="0.284" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/drawable/dotunselect.xml" value="0.284" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/drawable/ic_add.xml" value="0.284" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/drawable/ic_delete.xml" value="0.284" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/drawable/ic_empty.xml" value="0.284" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/activity_login.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/activity_main.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/activity_register.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/activity_splash.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/activity_tambah.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/activity_update.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/activity_viewpager.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/fragment_catatan.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/fragment_logout.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/fragment_profil.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/fragment_tambah.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/my_row.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/layout/viewpagerscreen.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/menu/bottom_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/prorf/AndroidStudioProjects/UAS_AKB_IF3_10119107/app/src/main/res/menu/my_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
